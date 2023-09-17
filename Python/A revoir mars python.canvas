@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"text","text":"A revoir Mars avril\npython","id":"43ca1d908385a172","x":-95,"y":-44,"width":225,"height":64},
+		{"type":"text","text":"Boucle For","id":"756c079b424dda96","x":-120,"y":-275,"width":250,"height":60},
+		{"type":"text","text":"Dictionnaires","id":"97fc53060e039609","x":366,"y":-123,"width":250,"height":60},
+		{"type":"text","text":"Optimisation","id":"31a516eddd29d742","x":172,"y":-305,"width":250,"height":60},
+		{"type":"text","text":"Les compréhensions de liste","id":"e8dd45c59484088f","x":200,"y":240,"width":250,"height":60},
+		{"type":"text","text":"Logger","id":"da27fccd77e04fd3","x":-107,"y":270,"width":250,"height":60},
+		{"type":"text","text":"Debugger","id":"e22010c2c6f60123","x":-400,"y":-37,"width":250,"height":50},
+		{"id":"606433aad7a8f0dc","x":-620,"y":203,"width":250,"height":127,"type":"text","text":"Fonction iter, zip ezt next\nDans la fonction initialize pokémons"}
+	],
+	"edges":[
+		{"id":"f8f98bb194cf4b39","fromNode":"43ca1d908385a172","fromSide":"top","toNode":"756c079b424dda96","toSide":"bottom"},
+		{"id":"cd38156231df0cd2","fromNode":"43ca1d908385a172","fromSide":"right","toNode":"97fc53060e039609","toSide":"left"},
+		{"id":"29123fe69d1fedc5","fromNode":"43ca1d908385a172","fromSide":"bottom","toNode":"e8dd45c59484088f","toSide":"top"},
+		{"id":"93bb1de37de9b940","fromNode":"43ca1d908385a172","fromSide":"left","toNode":"e22010c2c6f60123","toSide":"right"},
+		{"id":"4799b28d6a727457","fromNode":"43ca1d908385a172","fromSide":"bottom","toNode":"da27fccd77e04fd3","toSide":"top"},
+		{"id":"e4028923fbf5243b","fromNode":"43ca1d908385a172","fromSide":"top","toNode":"31a516eddd29d742","toSide":"bottom"},
+		{"id":"d48df271ea47cd79","fromNode":"43ca1d908385a172","fromSide":"bottom","toNode":"606433aad7a8f0dc","toSide":"top"}
+	]
+}

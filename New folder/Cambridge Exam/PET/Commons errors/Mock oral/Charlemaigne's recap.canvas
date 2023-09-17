@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c0884baab7ee2585","x":-179,"y":-50,"width":105,"height":50,"type":"text","text":"ERRORS"},
+		{"id":"4a18a300077a77ad","x":-270,"y":-185,"width":250,"height":60,"type":"text","text":"Next to = Near ..."},
+		{"id":"4afdb48ca0bb4581","x":-389,"y":-70,"width":137,"height":60,"type":"text","text":"Get better AT"},
+		{"id":"fa75bae91b6d5b6f","x":-6,"y":-67,"width":106,"height":50,"type":"text","text":"In the middle"}
+	],
+	"edges":[
+		{"id":"900a53923eb88bd5","fromNode":"c0884baab7ee2585","fromSide":"top","toNode":"4a18a300077a77ad","toSide":"bottom"},
+		{"id":"93e4fffee262a564","fromNode":"c0884baab7ee2585","fromSide":"left","toNode":"4afdb48ca0bb4581","toSide":"right"},
+		{"id":"8ade30800f3464d8","fromNode":"c0884baab7ee2585","fromSide":"right","toNode":"fa75bae91b6d5b6f","toSide":"left"}
+	]
+}
